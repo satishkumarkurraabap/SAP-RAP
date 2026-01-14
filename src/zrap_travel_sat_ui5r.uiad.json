@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "A Fiori application",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Travel App Sat"
+  },
+  "ui5AppDetails": {
+    "appId": "zraptravelsat"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_8B8647F00BCD32EFFDB8E93AFE917C4954A01A87_TM",
+    "semanticObject": "ZRAP_TRAVEL_SAT",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_8B8647F00BCD32EFFDB8E93AFE917C4954A01A87_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Travel App Sat"
+      }
+    }
+  ]
+}
